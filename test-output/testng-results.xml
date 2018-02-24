@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="11526" started-at="2018-02-23T16:40:44Z" finished-at="2018-02-23T16:40:56Z">
+  <suite name="Suite" duration-ms="11800" started-at="2018-02-23T23:50:15Z" finished-at="2018-02-23T23:50:27Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="11526" started-at="2018-02-23T16:40:44Z" finished-at="2018-02-23T16:40:56Z">
+    <test name="Test" duration-ms="11800" started-at="2018-02-23T23:50:15Z" finished-at="2018-02-23T23:50:27Z">
       <class name="test.Selenium_Jenkins_Int">
-        <test-method status="PASS" signature="SetUp()[pri:0, instance:test.Selenium_Jenkins_Int@724af044]" name="SetUp" is-config="true" duration-ms="7141" started-at="2018-02-23T16:40:44Z" finished-at="2018-02-23T16:40:51Z">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:test.Selenium_Jenkins_Int@6b4a4e18]" name="SetUp" is-config="true" duration-ms="7484" started-at="2018-02-23T23:50:16Z" finished-at="2018-02-23T23:50:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method status="PASS" signature="test()[pri:0, instance:test.Selenium_Jenkins_Int@724af044]" name="test" duration-ms="3618" started-at="2018-02-23T16:40:51Z" finished-at="2018-02-23T16:40:55Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:test.Selenium_Jenkins_Int@6b4a4e18]" name="test" duration-ms="3588" started-at="2018-02-23T23:50:23Z" finished-at="2018-02-23T23:50:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.Selenium_Jenkins_Int@724af044]" name="tearDown" is-config="true" duration-ms="730" started-at="2018-02-23T16:40:55Z" finished-at="2018-02-23T16:40:56Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.Selenium_Jenkins_Int@6b4a4e18]" name="tearDown" is-config="true" duration-ms="687" started-at="2018-02-23T23:50:27Z" finished-at="2018-02-23T23:50:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- test.Selenium_Jenkins_Int -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
